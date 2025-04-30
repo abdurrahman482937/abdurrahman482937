@@ -4,7 +4,6 @@
 <br>🚀 Exploring JavaScript, React & web technologies <br> 💡 Love solving real-life coding problems & improving logic<br>📚 Studying in class 9 <br>
 
 
-
 # 💻 Tech Stack:
 
 ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
