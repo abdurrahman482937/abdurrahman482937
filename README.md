@@ -1,10 +1,8 @@
 # Hello World!, I'm Abdur Rahman 👋🏼:
-
 🛜 currently working on my own webpage<br>👨‍💻 professional web developer from Barishal, Bangladesh
 <br>🚀 Exploring JavaScript, React & web technologies <br> 💡 Love solving real-life coding problems & improving logic<br>📚 Studying in class 9 <br>
 
 # 💻 Tech Stack:
-
 ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
