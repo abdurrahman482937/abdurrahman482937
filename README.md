@@ -1,9 +1,17 @@
-# Hello World!, I'm Abdur Rahman 👋🏼:
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+There!+%F0%9F%91%8B;I+am+Abdur+Rahman...;Nice+to+meet+you!)](https://git.io/typing-svg)
-🛜 currently working on my own webpage<br>👨‍💻 professional web developer from Barishal, Bangladesh
-<br>🚀 Exploring JavaScript, React & web technologies <br> 💡 Love solving real-life coding problems & improving logic<br>📚 Studying in class 9 <br>
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+There!+%F0%9F%91%8B;I+am+Abdur+Rahman...;Nice+to+meet+you!)](https://git.io/typing-svg)
 
-# 💻 Tech Stack:
+<div align="left">
+  <strong>Full Stack Web Engineer 👋 | Expert in JavaScript, React.js, React Native, Next.js, Redux, TypeScript, Node.js, Express.js | Crafting High-Performance Microservices, Scalable Web Apps with MongoDB & PostgreSQL 🌍 | Blockchain Enthusiast & IEEE Researcher 💡</strong>
+</div>
+<br/>
+
+<a href="https://www.linkedin.com/in/abdurrahman482937"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+<a href="https://app.daily.dev/abdurrahman482937"><img src="https://img.shields.io/badge/-Daily%20Dev-000000?style=flat&logo=daily.dev&logoColor=white" alt="Daily Dev Badge"/></a>
+<a href="https://www.instagram.com/abdurrahman482937"><img src="https://img.shields.io/badge/-Instagram-962fbf?style=flat&logo=Instagram&logoColor=white" alt="Instagram Badge"/></a>
+<a href="mailto:abdurrahmanass2024@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white" alt="Gmail Badge"/></a>
+<hr/>
+
+## Tech Stack:
 ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
