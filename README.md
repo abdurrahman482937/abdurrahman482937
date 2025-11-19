@@ -1,9 +1,5 @@
 # Hello World!, I'm Abdur Rahman 👋🏼:
-<h1 align="left">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Nur+Adnan....;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+There!+%F0%9F%91%8B;I+am+Abdur+Rahman...;Nice+to+meet+you!)](https://git.io/typing-svg)
 🛜 currently working on my own webpage<br>👨‍💻 professional web developer from Barishal, Bangladesh
 <br>🚀 Exploring JavaScript, React & web technologies <br> 💡 Love solving real-life coding problems & improving logic<br>📚 Studying in class 9 <br>
 
