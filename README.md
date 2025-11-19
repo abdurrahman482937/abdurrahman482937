@@ -1,6 +1,9 @@
 <img align=”right” alt=”Coding” width=”400” src="./abdurrahmanci.png"/>
 
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+There!+%F0%9F%91%8B;I+am+Abdur+Rahman...;Nice+to+meet+you!)](https://git.io/typing-svg)
+<h1 align="left">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+There!+%F0%9F%91%8B;I+am+Abdur+Rahman...;Nice+to+meet+you!" alt="Typing SVG" /></a>
+</h1>
+
 
 <div align="left">
   <strong>Full Stack Web Engineer 👋 | Expert in JavaScript, React.js, React Native, Next.js, Redux, TypeScript, Node.js, Express.js | Crafting High-Performance Microservices, Scalable Web Apps with MongoDB & PostgreSQL 🌍 | Blockchain Enthusiast & IEEE Researcher 💡</strong>
