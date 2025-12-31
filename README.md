@@ -50,7 +50,7 @@ I am detail-oriented, reliable, and committed to delivering quality work on time
 I’m always interested in collaborating on innovative projects and discussing new technologies. Whether you’re planning a new product, improving an existing system, or exploring collaboration, feel free to reach out.
 
 Email: abdurrahman2009.dev@gmail.com <br/>
-Portfolio: yourportfolio.com <br/>
+Portfolio: https://portfolio-this.vercel.app <br/>
 LinkedIn: linkedin.com/in/yourprofile <br/>
 
 Available for: remote roles, freelance projects, team collaborations, or full-time positions.
