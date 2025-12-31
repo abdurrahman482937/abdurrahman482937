@@ -49,7 +49,7 @@ I am detail-oriented, reliable, and committed to delivering quality work on time
 
 I’m always interested in collaborating on innovative projects and discussing new technologies. Whether you’re planning a new product, improving an existing system, or exploring collaboration, feel free to reach out.
 
-Email: abdurrahman2009.dev@gmail.com 
+Email: abdurrahman2009.dev@gmail.com <br/>
 Open for: Freelance Projects, Full-time Opportunities, Collaborations
 
 ---
